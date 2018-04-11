@@ -1,0 +1,13 @@
+[{
+  "nome": "Jonatas Bermudes",
+  "idade": 26,
+  "email": "jonatas.bermudes@el.com.br",
+  "login": "jonatas",
+  "senha": "j123"
+}, {
+  "nome": "Sidney Dalvi",
+  "idade": 41,
+  "email": "scdalvi@gmail.com",
+  "login": "sidney",
+  "senha": "s123"
+}]
